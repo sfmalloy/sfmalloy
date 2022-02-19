@@ -15,13 +15,13 @@
     <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=c%2B%2B&sort=">
         <img width=50 src="img/cpp.svg">
     </a>
-    <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=c&sort=">
-        <img width=50 src="img/c.svg">
-    </a>
     <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=java&sort=">
         <img width=50 src="img/java.svg">
     </a>
     <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=c%23&sort=">
         <img width=55 src="img/csharp.svg">
+    </a>
+    <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=c&sort=">
+        <img width=50 src="img/c.svg">
     </a>
 </p>
