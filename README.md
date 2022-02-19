@@ -10,18 +10,18 @@
 
 <p align="center">
     <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=python&sort=">
-        <img width=50 src="img/python.svg" style="padding-right: 2%">
+        <img width=50 src="img/python.svg">
     </a>
     <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=python&sort=">
-        <img width=50 src="img/cpp.svg" style="padding-right: 2%">
+        <img width=50 src="img/cpp.svg">
     </a>
     <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=python&sort=">
-        <img width=50 src="img/c.svg" style="padding-right: 2%">
+        <img width=50 src="img/c.svg">
     </a>
     <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=python&sort=">
-        <img width=50 src="img/java.svg" style="padding-right: 2%">
+        <img width=50 src="img/java.svg">
     </a>
     <a href="https://github.com/sfmalloy?tab=repositories&q=&type=&language=python&sort=">
-        <img width=55 src="img/csharp.svg" style="padding-right: 2%">
+        <img width=55 src="img/csharp.svg">
     </a>
 </p>
